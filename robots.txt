@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wahkuongi.christinaxamin.com/sitemap.xml
